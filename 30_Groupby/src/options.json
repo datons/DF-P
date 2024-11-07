@@ -1,0 +1,48 @@
+{
+    "year": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+    ],
+    "granularity": [
+        "month",
+        "day",
+        "hour",
+        "weekday",
+        "weekend"
+    ],
+    "columns": [
+        "Hydraulic",
+        "Adjustment P48",
+        "Balance Andorra",
+        "Balance Morocco",
+        "Balance France",
+        "Balance Portugal",
+        "Other Renewables",
+        "Non-Renewable Waste",
+        "Cogeneration",
+        "Wind",
+        "Fuel-Gas",
+        "Coal",
+        "Balearic Link",
+        "Pumping Consumption",
+        "Solar Thermal",
+        "Solar Photovoltaic",
+        "Combined Cycle",
+        "Pumping Turbine",
+        "Nuclear"
+    ],
+    "aggfunc": [
+        "sum",
+        "mean",
+        "median",
+        "std",
+        "min",
+        "max"
+    ]
+}
